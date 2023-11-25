@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alea-progaming&label=Profile%20views&color=0e75b6&style=flat" alt="alea-progaming" /> </p>
 
-- 🔭 I’m currently working on [my personal portfolio website](https://github.com/alea-progaming/web-dev-portfolio/tree/main/Web%20Projects/Web%20Development/Buer)
+- 🔭 I’m currently working on [my personal portfolio website](https://github.com/alea-progaming/web-dev-portfolio/tree/main/Web%20Projects/To_Do_List)
 
 - 🌱 I’m currently learning **Web API**
 
